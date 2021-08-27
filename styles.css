@@ -197,7 +197,7 @@ body{
 }
 
 #social_medias{
-    margin-top: 183px;
+    margin-top: 172px;
     background-color: black;
     color: white;
     text-align: center;
@@ -302,12 +302,8 @@ body{
     border-radius: 15px;
 }
 
-#entrega_{
-    display: block;
-}
-
 #midia{
-    margin-top: 345px;
+    margin-top: 227px;
     background-color: black;
     color: white;
     text-align: center;
@@ -318,3 +314,23 @@ body{
     letter-spacing: 1px;
 }
 
+#entrega{
+    font-family: 'Roboto';
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#adc{
+    font-family: 'Roboto';
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#adc input{
+    margin-left: 10px;
+}
+
+#selecao input{
+    margin-left: 93px;
+    margin-top: 5px;
+}
