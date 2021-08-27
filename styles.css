@@ -197,7 +197,7 @@ body{
 }
 
 #social_medias{
-    margin-top: 172px;
+    margin-top: 183px;
     background-color: black;
     color: white;
     text-align: center;
@@ -271,3 +271,50 @@ body{
 #exple{
     border: 25px solid black;
 }
+
+.e-name span{
+    margin-left: 15px;
+    font-family: 'Roboto';
+}
+
+.e-name input{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    transition: width 0.4s ease-in-out;
+}
+
+.e-name input:focus{
+    width: 30%;
+}
+
+#select{
+    font-family: 'Roboto';
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+#select select{
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+#entrega_{
+    display: block;
+}
+
+#midia{
+    margin-top: 345px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#midia p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
